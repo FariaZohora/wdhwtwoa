@@ -98,42 +98,49 @@ body{
 	background-color:#807a6c;
 }
 .a:hover{
+	cursor:pointer;
 	box-shadow:3px 3px 5px black;
 	transition:0.5s;
 	border-radius:25px;
 	margin:5px;
 }
 .b:hover{
+	cursor:pointer;
 	box-shadow:3px 3px 5px black;
 	transition:0.5s;
 	border-radius:25px;
 	margin:5px;
 }
 .c:hover{
+	cursor:pointer;
 	box-shadow:3px 3px 5px black;
 	transition:0.5s;
 	border-radius:25px;
 	margin:5px;
 }
 .d:hover{
+	cursor:pointer;
 	box-shadow:3px 3px 5px black;
 	transition:0.5s;
 	border-radius:25px;
 	margin:5px;
 }
 .e:hover{
+	cursor:pointer;
 	box-shadow:3px 3px 5px black;
 	transition:0.5s;
 	border-radius:25px;
 	margin:5px;
 }
 .f:hover{
+	cursor:pointer;
 	box-shadow:3px 3px 5px black;
 	transition:0.5s;
 	border-radius:25px;
 	margin:5px;
 }
 .g:hover{
+	cursor:pointer;
 	box-shadow:3px 3px 5px black;
 	transition:0.5s;
 	border-radius:25px;
