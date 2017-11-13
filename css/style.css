@@ -1,0 +1,160 @@
+body{
+	background:url(../images/pattern.jpg) no-repeat; 
+	background-size:1375px;
+	margin:0px;
+	font-family: 'Oswald', sans-serif;
+	width:165px;
+	color:white;
+	font-size:30px;
+}
+
+.navigation{
+	margin:0px;
+	height:100px;
+	width:1375px;
+	background-color:#169b9f;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.navigation ul{
+	list-style:none;
+}
+.navigation ul li{
+	display:inline;
+	border-radius:25px;
+	Background-color:inherit;
+	margin-right:70px;
+	margin-left:65px;
+	padding:10px;
+}
+.navigation ul li:hover{
+	cursor:pointer;
+	background-color:#117679;
+	box-shadow:3px 3px 5px black;
+	transition:0.5s;
+}
+
+.header{
+	height:300px;
+	width:1375px;	
+}
+.logo{
+	background-color:#807a6c8c;
+	height:300px;
+	width:400px;
+	float:left;
+}
+.header-ad{
+	height:300px;
+	background-color:#807a6c8c;
+	width:975px;
+	float:right;
+	font-size:50px;
+}
+
+.content{
+	height:1190px;
+	width:1375px;	
+	background-color:inherit;
+}
+.main{
+	height:1190px;
+	width:70%;
+	background-color:#d5b79185;
+	float:left;
+}
+.side{
+	height:1190px;
+	width:30%;
+	background-color:#d5b79185;	
+	float:right;
+}
+.a{
+	height:170px;
+	background-color:#807a6c;
+}
+.b{
+	height:170px;
+	background-color:#d5b791;
+}
+.c{
+	height:170px;
+	background-color:#807a6c;
+}
+.d{
+	height:170px;
+	background-color:#d5b791;
+}
+.e{
+	height:170px;
+	background-color:#807a6c;
+}
+.f{
+	height:170px;
+	background-color:#d5b791;
+}
+.g{
+	height:170px;
+	background-color:#807a6c;
+}
+.a:hover{
+	box-shadow:3px 3px 5px black;
+	transition:0.5s;
+	border-radius:25px;
+	margin:5px;
+}
+.b:hover{
+	box-shadow:3px 3px 5px black;
+	transition:0.5s;
+	border-radius:25px;
+	margin:5px;
+}
+.c:hover{
+	box-shadow:3px 3px 5px black;
+	transition:0.5s;
+	border-radius:25px;
+	margin:5px;
+}
+.d:hover{
+	box-shadow:3px 3px 5px black;
+	transition:0.5s;
+	border-radius:25px;
+	margin:5px;
+}
+.e:hover{
+	box-shadow:3px 3px 5px black;
+	transition:0.5s;
+	border-radius:25px;
+	margin:5px;
+}
+.f:hover{
+	box-shadow:3px 3px 5px black;
+	transition:0.5s;
+	border-radius:25px;
+	margin:5px;
+}
+.g:hover{
+	box-shadow:3px 3px 5px black;
+	transition:0.5s;
+	border-radius:25px;
+	margin:5px;
+}
+
+.footer{
+	padding:1px;
+	height:80px;
+	width:1375px;
+	background-color:#169b9f;
+}
+.y{
+	height:80px;
+	font-size:40px;
+	width:80%;
+	float:left;
+}
+.z{
+	height:80px;
+	font-size:20px;
+    width:20%;
+	float:right;
+}
